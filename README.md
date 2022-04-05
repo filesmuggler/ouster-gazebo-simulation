@@ -46,3 +46,6 @@ make
 make test
 make install
 ```
+
+## EDIT
+Added support for OS1-32 LiDARs, with meshes from [official source](https://ouster.com/downloads/)

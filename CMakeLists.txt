@@ -17,4 +17,4 @@ COMPUTE_PROJECT_ARGS(PROJECT_ARGS LANGUAGES CXX)
 project(${PROJECT_NAME} ${PROJECT_ARGS})
 
 add_subdirectory(ouster_gazebo_plugins)
-add_subdirectory(ouster_os1_64)
+add_subdirectory(ouster_os1)
